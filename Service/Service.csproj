@@ -37,6 +37,7 @@
     <Compile Include="NonTransactionalQueueService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Protocol\IQueueService.cs" />
+    <Compile Include="TransactionalQueueService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Model\Model.csproj">
