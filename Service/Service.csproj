@@ -34,6 +34,7 @@
     <Reference Include="System.Messaging" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="NonTransactionalQueueService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Protocol\IQueueService.cs" />
   </ItemGroup>
